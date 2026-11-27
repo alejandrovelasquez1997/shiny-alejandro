@@ -1,0 +1,13 @@
+name: app
+title: app
+username: alejandrovelasquez1997
+account: alejandrovelasquez1997
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a21a51-def7-8bc5-2b32-fa5c85100b80
+appGuid:
+bundleId:
+url: https://connect.posit.cloud/alejandrovelasquez1997/content/01a21a51-def7-8bc5-2b32-fa5c85100b80
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
